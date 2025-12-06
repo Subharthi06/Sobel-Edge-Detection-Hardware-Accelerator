@@ -19,3 +19,6 @@ This project implements a Sobel edge-detection engine using Verilog RTL. Input i
 ## Example Output
 Filtered image emphasizing edges (from Sobel filter).
 
+## Important Links
+- https://www.edaplayground.com/x/gCgz
+- https://colab.research.google.com/drive/1Rq_eFsKpBlH0xYkExGQJloyQXLzcLSRj?usp=sharing#scrollTo=je5LvGyG_Cvu
